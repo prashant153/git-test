@@ -5,3 +5,4 @@ Remote commit - R3
 Local commit - L1
 Local commit - L2
 Remote commit - R4
+Local commit - L3
